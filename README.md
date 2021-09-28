@@ -20,7 +20,7 @@
 ##
 
 <div style="display: inline_block"><br>
-	<a href="www.linkedin.com/in/rafael-silva-384197117/" target="_blank">
+	<a href="www.linkedin.com/in/rafael-silva-384197117" target="_blank">
 		<img style="border-radius: 5px 12px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<a href="https://api.whatsapp.com/send?phone=5511986675202" target="_blank">
