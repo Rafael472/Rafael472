@@ -30,3 +30,5 @@
 		<img style="border-radius: 5px 12px;" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 	</a>
 </div>
+
+![Snake animation](https://github.com/Rafael472/Rafael472/blob/output/github-contribution-grid-snake.svg)
