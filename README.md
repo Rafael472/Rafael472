@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rafael da Silva
 
-- 💻Trabalho com desenvolvimento back-end e front-end
+- 💻Trabalho com desenvolvimento back-end
 - ☕Estudante de Java
 
 <div>
